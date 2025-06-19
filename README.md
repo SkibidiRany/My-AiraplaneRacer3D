@@ -55,7 +55,7 @@ Working on this project provided me with valuable hands-on experience in several
 
 ## 🎥 Gameplay Demo
 
-[Watch the gameplay video on Google Drive](https://drive.google.com/file/d/1Yfhk8eKtUVF2T22mugSls_Js0sivo_fQ/view?usp=drive_link)
+[Watch the gameplay video on Google Drive](https://drive.google.com/file/d/1Yfhk8eKtUVF2T22mugSls_Js0sivo_fQ/view?usp=sharing)
 
 ---
 
@@ -65,7 +65,7 @@ Due to NDA restrictions, only a few representative snippets are included, you ca
 
 Here is an example of how some events subscribe to certain actions. check how easy it is to change stuff! you don't even need to know how to code! 
 
-[picture on Google Drive](https://drive.google.com/file/d/1Y3ie4I-qH3zCje0x07AJhOUgAksbFXFt/view?usp=drive_link)
+[picture on Google Drive](https://drive.google.com/file/d/1Y3ie4I-qH3zCje0x07AJhOUgAksbFXFt/view?usp=sharing)
 
 ---
 
